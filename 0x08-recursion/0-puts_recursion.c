@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_recursion - like puts()
+ * _puts_recursion - like puts()
  * @s: input
  *
  * Return: void
