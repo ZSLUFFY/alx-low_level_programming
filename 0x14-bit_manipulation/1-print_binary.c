@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * pow - fun calc
+ * _pow - fun calc
  * @base: exponent
  * @power: exponent
  *
